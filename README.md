@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Royal Blue & Gold Social Badges -->
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE_SITE-d4af37?style=for-the-badge&logo=google-chrome&logoColor=0b192c&labelColor=1e3a8a)](https://demnzy.github.io/portfolio-website/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE_SITE-d4af37?style=for-the-badge&logo=google-chrome&logoColor=0b192c&labelColor=1e3a8a)](https:tobi-davies.tech)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-38bdf8?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=1e3a8a)](https://linkedin.com/in/oluwatobiloba-davies)
 [![YouTube](https://img.shields.io/badge/BUILDHUB-YOUTUBE-d4af37?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=1e3a8a)](https://www.youtube.com/@buildhubbers)
 [![Email](https://img.shields.io/badge/EMAIL-SAY_HELLO-38bdf8?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=1e3a8a)](mailto:daviestobi3@gmail.com)
